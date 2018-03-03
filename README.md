@@ -15,6 +15,10 @@ Open any resume to see *online basic view* of our resumes:
 
 ## Guidelines
 
+### Never Use the Online Editor
+
+Make all your edits through your local machine, **commit**, **pull/push**.
+
 ### Adding an Image
 
 Each member can add an image and include it in his profile, using the following steps:
