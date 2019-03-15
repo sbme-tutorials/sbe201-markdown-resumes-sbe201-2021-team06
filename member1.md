@@ -18,13 +18,13 @@
 * Related to *Student Activiteis* :
     * Head HR at **BEAT** -> Current year. 
     * HR Member at **BEAT** -> Last Year.
-
-# **Education** 
-* **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
-    * Currently a Student. 
 * **Training**  
     * Former Trainee at Airforce Specialized Hospital 
     
+# **Education** 
+* **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
+    * Currently a Student. 
+
 # **Skills** 
 * Pythoneer 
 * Self Learner 
