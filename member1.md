@@ -22,7 +22,9 @@
 # **Education** 
 * **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
     * Currently a Student. 
-
+* **Training**  
+    * Former Trainee at Airforce Specialized Hospital 
+    
 # **Skills** 
 * Pythoneer 
 * Self Learner 
