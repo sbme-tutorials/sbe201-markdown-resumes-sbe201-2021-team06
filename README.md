@@ -2,8 +2,6 @@
 
 ## Resumes in this Repository
 
-Open any resume to see *online basic view* of our resumes:
-
 | Team Members | Resume Link |
 |--------------|-------------|
 | *Member 1* (replace with your name here) | [resume](member1.md) |
@@ -23,12 +21,12 @@ Make all your edits through your local machine, **commit**, **pull/push**.
 
 Each member can add an image and include it in his profile, using the following steps:
 
-1. Copy-paste your image (e.g `heisenberg.png`) into the repository folder.
-2. `git add heisenberg.png`.
+1. Copy-paste your image (e.g `member1.png`) into the repository folder.
+2. `git add member1.png`.
 3. Include the image in your profile. Use the *Markdown Cheat Sheet Fold*.
 4. Let the repository watch your image and take control:
     ```teminal
-    git commit -a -m "Say my name!"
+    git commit -a -m "add my image"
     ```
 5. `git push origin master`, if rejected:
     ```terminal
