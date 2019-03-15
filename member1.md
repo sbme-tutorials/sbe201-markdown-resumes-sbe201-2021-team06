@@ -19,7 +19,7 @@
     * Head HR at **BEAT** -> Current year. 
     * HR Member at **BEAT** -> Last Year.
 * **Training**  
-    * Former Trainee at Airforce Specialized Hospital 
+    * Former Trainee at *Airforce Specialized Hospital*. 
     
 # **Education** 
 * **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
