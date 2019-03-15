@@ -1,4 +1,29 @@
-Make your resume layout as the following sample:
+# **RESUME** 
 
-* [sample resume](https://sbme-tutorials.github.io/2019/data-structures/assignments/resumes/asem)
-* Try to use all Markdown features.
+* Name : Ahmad AbdelMageed Ahmad :blush: .
+* Year of Birth : 1997 :baby: .
+* e-mail : ahmedmageed19@gmail.com .
+* [Github] (https://github.com/biomedicalengineerahmad) :octocat: .
+
+# **Interests**
+
+* learning more about programming. :alien:
+* Playing Football :soccer: , Playstation and Computer games :video_game:.
+* Finding more about life and meaning to our existance :sunflower:. 
+* Having a good laugh :relaxed:.
+
+# ** Experiences ** 
+
+* Related to *Student Activiteis* :
+    * Head HR at **BEAT** -> Current year. 
+    * HR Member at **BEAT** -> Last Year.
+
+# ** Education ** 
+* **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
+    * Currently a Student. 
+
+# **Skills** 
+* Pythoneer 
+* Self Learner 
+
+
