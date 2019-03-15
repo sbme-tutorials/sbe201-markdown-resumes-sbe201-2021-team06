@@ -12,13 +12,13 @@
 * Finding more about life and meaning to our existance :sunflower:. 
 * Having a good laugh :relaxed:.
 
-# ** Experiences ** 
+# **Experiences** 
 
 * Related to *Student Activiteis* :
     * Head HR at **BEAT** -> Current year. 
     * HR Member at **BEAT** -> Last Year.
 
-# ** Education ** 
+# **Education** 
 * **Cairo University**, *Faculty of Engineering*, *Systems and Biomedical Engineering* 
     * Currently a Student. 
 
