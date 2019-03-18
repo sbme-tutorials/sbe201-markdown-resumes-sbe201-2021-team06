@@ -6,8 +6,8 @@
 |--------------|-------------|
 | *Member 1* (Ahmad AbdelMageed Ahmad ) | [resume](member1.md) |
 | *Member 2* (Rawan Sayed Badr) | [resume](member2.md) |
-| *Member 3* (replace with your name here) | [resume](member3.md) |
-| *Member 4* (Fady Tadrous Mikheal) | [resume](member4.md) |
+| *Member 3* (Toaa mahmoud abd el hakim) | [resume](member3.md) |
+| *Member 4* (replace with your name here) | [resume](member4.md) |
 | *Member 5* (replace with your name here) | [resume](member5.md) |
 | *Member 6* (replace with your name here) | [resume](member6.md) |
 
